@@ -2,7 +2,7 @@
 
 A new Flutter project that shows you how it paints and renders Widgets on the screen with the help of **DevTools**.
 
-You can watch the episode for forther understand : 
+You can watch the episode for better understand : 
 https://youtu.be/ldfTmXPQHdE
 
 ![Hello Dart](https://user-images.githubusercontent.com/36349126/127639528-e04874eb-77f2-4139-b441-1ad05a7b9b9a.png)
